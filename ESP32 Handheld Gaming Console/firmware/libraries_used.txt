@@ -1,5 +1,0 @@
-Required Libraries:
-1. U8g2 (by oliver) - For OLED graphics [cite: 143]
-2. Wire - For I2C communication [cite: 75]
-3. EEPROM - For high score storage [cite: 77]
-4. WiFi & esp_now - For RC control functionality [cite: 184]
